@@ -33,7 +33,6 @@ QueueHandle_t xQueueBoomboxtoGUI;  // Очередь для передачи с 
 static const char *TAG = " ************** main_LVGL";
 
 // global vars
-SemaphoreHandle_t xGuiSemaphore;
 
 
 // Static Prototypes
